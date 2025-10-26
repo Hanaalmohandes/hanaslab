@@ -50,3 +50,6 @@ TagManager:
   - name: char
     uniqueID: 2634317779
     locked: 0
+  - name: step
+    uniqueID: 3043858943
+    locked: 0
